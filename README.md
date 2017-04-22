@@ -1,4 +1,7 @@
-# test coverage for  [node-rest-client (v3.1.0)](https://github.com/aacerox/node-rest-client)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rest-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rest-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rest-client.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rest-client)
+# npmtest-node-rest-client
+
+#### basic test coverage for  [node-rest-client (v3.1.0)](https://github.com/aacerox/node-rest-client)  [![npm package](https://img.shields.io/npm/v/npmtest-node-rest-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-rest-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-rest-client.svg)](https://travis-ci.org/npmtest/node-npmtest-node-rest-client)
+
 #### node API REST client
 
 [![NPM](https://nodei.co/npm/node-rest-client.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-rest-client)
@@ -74,7 +77,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "3.1.0"
+    "version": "3.1.0",
+    "bin": {}
 }
 ```
 
